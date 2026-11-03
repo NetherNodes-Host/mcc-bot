@@ -1,0 +1,11 @@
+/inventoryhandling true
+/terrainandmovements true
+wait 2
+changeslot 2
+wait 3
+useitem
+wait 4
+inventory container click 13
+wait 12
+send /warp afkzone
+
